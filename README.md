@@ -1,4 +1,4 @@
-# garmintread
+# Garmin Tread
 
 Läbipaistev lisakaart Garmin Treadile (ja teistele Garmini seadmetele, mis toetavad `.img` kaarte) ATV-ga sõitmiseks:
 looduskaitsealade vööndid, RMK hallatav riigimaa ning pinnasteed ja rajad kogu Eesti kohta.
